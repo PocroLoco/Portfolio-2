@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^cristian-popa.jpg$ /cristian-popa.html [L]
