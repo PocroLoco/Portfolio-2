@@ -1,2 +1,4 @@
 RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^cristian-popa.png$ /cristian-popa.html [L]
+RewriteRule ^portfolio-item$ /portfolio-item.html [L]
